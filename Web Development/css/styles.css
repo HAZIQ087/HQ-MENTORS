@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(237, 245, 244);
+    
+}
+.main-heading{
+    font-size: 3.5rem;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    
+}
+.skill-title{
+    color: #66BFBF;
+}
+.phrase{
+    font-size: 1.5rem;
+    color: #66BFBF;
+    margin-top: 0;
+    font-weight: normal;
+    line-height: 0.1rem;
+}
+.hello{
+    color: #66BFBF;
+    font-size:2.75rem ;
+}
+
+.top-container{
+    position: relative;
+    background-color: #cff1ef;
+    padding-top: 130PX;
+    
+
+}
+.top-cloud-img{
+position: absolute;
+top: 100px;
+right: 380px;
+}
+
+
+.bottom-cloud-img{
+    position: absolute;
+    left: 350px;
+    bottom:300px;
+}
+.profile-pic{
+    width: 250px;
+    height: 250px;
+    padding-top: 50px;
+    padding-bottom: ;
+}
+.skill-1-image{
+width: 25%;
+float: left;
+padding-right: 30px;
+
+}
+.footer-link{
+    color: #11999E;
+    line-height: 0px;
+}
+
+
+.skills{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+hr{
+    width: 100px;
+    border: dotted;
+    border-top: 0px;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 20px;
+    border-width: 5px;
+    border-color: grey;
+}
+
+.bottom-container{
+    position: relative;
+     background-color: rgb(4, 191, 224);
+height: 50px;
+margin: 0;
+padding: 0; 
+     ;
+}
+
+
+   
+}
+.middle-container{
+    margin-bottom: 20px;
+}
+.contact-img{
+    width: 10%;
+
+}
+
+.footer-link-3{
+    font-size: 1rem;
+    color: white;
+    padding-right: 25px;
+    
+    text-align: center;
+    
+    top: 50px;
+    text-decoration-line: none;
+}
+
+.footer-link-2{
+    color: white;
+    font-size: 1rem;
+    padding-right: 25px;
+    text-align: center;
+    top: 50px;
+    
+    text-decoration-line: none;
+   
+}
+
+.footer-link-1{
+    color: white;
+    font-size: 1rem;
+    padding-right: 25px;
+    
+    text-align: center;
+    
+    top: 50px;
+    text-decoration-line: none;
+    
+}
+.btn{
+    background-color:  rgb(1, 192, 192) ;
+    color: white;
+    width: 150px;
+    height: 35px;
+    border: rgb(6, 247, 247) ;
+    border-radius: 15px 50px 15px 50px;
+}
+
+
+.btn:hover{
+    background-color:  rgb(197, 252, 252) ;
+    color: black;
+}
